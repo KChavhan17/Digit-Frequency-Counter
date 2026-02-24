@@ -63,3 +63,9 @@ Output:
 
 
 Improves logical thinking, number manipulation, and JavaScript fundamentals 💪🔥
+
+
+## 🍂Live Demo (⁠~⁠‾⁠▿⁠‾⁠)⁠~
+
+
+🔗https://kchavhan17.github.io/Digit-Frequency-Counter/
